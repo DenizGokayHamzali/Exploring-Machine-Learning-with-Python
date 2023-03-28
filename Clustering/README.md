@@ -1,6 +1,6 @@
 # Clustering Live Selling Products based on Reactions and Engagement
 
-The goal of this project is to cluster live selling products based on customer reactions ang engagement, such as the number of comments and shares to a Facebook post.
+The goal of this project is to cluster live selling products based on customer reactions ang engagement, such as the number of comments and shares to a Meta (formerly Facebook) post.
 
 The dataset used in this project contains one CSV file: Live.csv, obtained from machine learning repository of University of California Irvine. Each row represents a product, and there are a total of 13 features, including customer reactions and engagement metrics.
 
